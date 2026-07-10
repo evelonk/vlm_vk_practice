@@ -1,0 +1,1202 @@
+[
+  {
+    "idx": 0,
+    "gold": "диван",
+    "pred": "sofa",
+    "correct": false
+  },
+  {
+    "idx": 1,
+    "gold": "за очки",
+    "pred": "очки",
+    "correct": false
+  },
+  {
+    "idx": 2,
+    "gold": "нет",
+    "pred": "тонкий",
+    "correct": false
+  },
+  {
+    "idx": 3,
+    "gold": "фиолетовый",
+    "pred": "красная.",
+    "correct": false
+  },
+  {
+    "idx": 4,
+    "gold": "нет",
+    "pred": "no",
+    "correct": false
+  },
+  {
+    "idx": 5,
+    "gold": "зелёные",
+    "pred": "зеленый",
+    "correct": false
+  },
+  {
+    "idx": 6,
+    "gold": "нет",
+    "pred": "no",
+    "correct": false
+  },
+  {
+    "idx": 7,
+    "gold": "зонтом",
+    "pred": "зоной",
+    "correct": false
+  },
+  {
+    "idx": 8,
+    "gold": "азиатской",
+    "pred": "азиатская",
+    "correct": false
+  },
+  {
+    "idx": 9,
+    "gold": "девочка",
+    "pred": "father",
+    "correct": false
+  },
+  {
+    "idx": 10,
+    "gold": "да",
+    "pred": "верёвка красная",
+    "correct": false
+  },
+  {
+    "idx": 11,
+    "gold": "да",
+    "pred": "yes",
+    "correct": false
+  },
+  {
+    "idx": 12,
+    "gold": "высокие",
+    "pred": "высокие",
+    "correct": true
+  },
+  {
+    "idx": 13,
+    "gold": "клавиатура",
+    "pred": "monitor",
+    "correct": false
+  },
+  {
+    "idx": 14,
+    "gold": "да",
+    "pred": "no",
+    "correct": false
+  },
+  {
+    "idx": 15,
+    "gold": "да",
+    "pred": "Стол",
+    "correct": false
+  },
+  {
+    "idx": 16,
+    "gold": "нет",
+    "pred": "нет",
+    "correct": true
+  },
+  {
+    "idx": 17,
+    "gold": "мужчина",
+    "pred": "no one",
+    "correct": false
+  },
+  {
+    "idx": 18,
+    "gold": "справа",
+    "pred": "справа",
+    "correct": true
+  },
+  {
+    "idx": 19,
+    "gold": "двери",
+    "pred": "большое здание",
+    "correct": false
+  },
+  {
+    "idx": 20,
+    "gold": "футболист",
+    "pred": "goalie",
+    "correct": false
+  },
+  {
+    "idx": 21,
+    "gold": "мальчик",
+    "pred": "нападающий",
+    "correct": false
+  },
+  {
+    "idx": 22,
+    "gold": "да",
+    "pred": "yes",
+    "correct": false
+  },
+  {
+    "idx": 23,
+    "gold": "да",
+    "pred": "вафля",
+    "correct": false
+  },
+  {
+    "idx": 24,
+    "gold": "нет",
+    "pred": "no",
+    "correct": false
+  },
+  {
+    "idx": 25,
+    "gold": "небом",
+    "pred": "snow",
+    "correct": false
+  },
+  {
+    "idx": 26,
+    "gold": "нет",
+    "pred": "no",
+    "correct": false
+  },
+  {
+    "idx": 27,
+    "gold": "нет",
+    "pred": "no",
+    "correct": false
+  },
+  {
+    "idx": 28,
+    "gold": "нет",
+    "pred": "тарелка круглая, миска прямоугольная",
+    "correct": false
+  },
+  {
+    "idx": 29,
+    "gold": "да",
+    "pred": "no",
+    "correct": false
+  },
+  {
+    "idx": 30,
+    "gold": "телефон",
+    "pred": "маленький мобильный телефон",
+    "correct": false
+  },
+  {
+    "idx": 31,
+    "gold": "нет",
+    "pred": "no",
+    "correct": false
+  },
+  {
+    "idx": 32,
+    "gold": "да",
+    "pred": "yes",
+    "correct": false
+  },
+  {
+    "idx": 33,
+    "gold": "нет",
+    "pred": "no",
+    "correct": false
+  },
+  {
+    "idx": 34,
+    "gold": "черный",
+    "pred": "черный",
+    "correct": true
+  },
+  {
+    "idx": 35,
+    "gold": "в кресле",
+    "pred": "cockpit",
+    "correct": false
+  },
+  {
+    "idx": 36,
+    "gold": "высокие",
+    "pred": "20 футов",
+    "correct": false
+  },
+  {
+    "idx": 37,
+    "gold": "да",
+    "pred": "yes",
+    "correct": false
+  },
+  {
+    "idx": 38,
+    "gold": "нет",
+    "pred": "no",
+    "correct": false
+  },
+  {
+    "idx": 39,
+    "gold": "грязная",
+    "pred": "не очень",
+    "correct": false
+  },
+  {
+    "idx": 40,
+    "gold": "зебры",
+    "pred": "зебра",
+    "correct": false
+  },
+  {
+    "idx": 41,
+    "gold": "нет",
+    "pred": "no",
+    "correct": false
+  },
+  {
+    "idx": 42,
+    "gold": "прямоугольная",
+    "pred": "прямоугольный",
+    "correct": false
+  },
+  {
+    "idx": 43,
+    "gold": "книга",
+    "pred": "monitor",
+    "correct": false
+  },
+  {
+    "idx": 44,
+    "gold": "фарфор",
+    "pred": "porcelain",
+    "correct": false
+  },
+  {
+    "idx": 45,
+    "gold": "да",
+    "pred": "потолок над ванной находится над ванной.",
+    "correct": false
+  },
+  {
+    "idx": 46,
+    "gold": "да",
+    "pred": "yes",
+    "correct": false
+  },
+  {
+    "idx": 47,
+    "gold": "да",
+    "pred": "no",
+    "correct": false
+  },
+  {
+    "idx": 48,
+    "gold": "справа",
+    "pred": "сбоку",
+    "correct": false
+  },
+  {
+    "idx": 49,
+    "gold": "девочка",
+    "pred": "маленькая девочка",
+    "correct": false
+  },
+  {
+    "idx": 50,
+    "gold": "шляпа",
+    "pred": "белая рубашка",
+    "correct": false
+  },
+  {
+    "idx": 51,
+    "gold": "слева",
+    "pred": "слева",
+    "correct": true
+  },
+  {
+    "idx": 52,
+    "gold": "да",
+    "pred": "ambulance",
+    "correct": false
+  },
+  {
+    "idx": 53,
+    "gold": "нет",
+    "pred": "no",
+    "correct": false
+  },
+  {
+    "idx": 54,
+    "gold": "нет",
+    "pred": "no",
+    "correct": false
+  },
+  {
+    "idx": 55,
+    "gold": "рама окна",
+    "pred": "пицца",
+    "correct": false
+  },
+  {
+    "idx": 56,
+    "gold": "нет",
+    "pred": "no",
+    "correct": false
+  },
+  {
+    "idx": 57,
+    "gold": "девочка",
+    "pred": "девочка",
+    "correct": true
+  },
+  {
+    "idx": 58,
+    "gold": "за питчером",
+    "pred": "на насыпи",
+    "correct": false
+  },
+  {
+    "idx": 59,
+    "gold": "мальчик",
+    "pred": "skateboarder",
+    "correct": false
+  },
+  {
+    "idx": 60,
+    "gold": "нет",
+    "pred": "no",
+    "correct": false
+  },
+  {
+    "idx": 61,
+    "gold": "нет",
+    "pred": "no",
+    "correct": false
+  },
+  {
+    "idx": 62,
+    "gold": "маленькая",
+    "pred": "normal",
+    "correct": false
+  },
+  {
+    "idx": 63,
+    "gold": "большая",
+    "pred": "а4",
+    "correct": false
+  },
+  {
+    "idx": 64,
+    "gold": "мужчина",
+    "pred": "человек",
+    "correct": false
+  },
+  {
+    "idx": 65,
+    "gold": "стул",
+    "pred": "стул",
+    "correct": true
+  },
+  {
+    "idx": 66,
+    "gold": "монитор",
+    "pred": "no",
+    "correct": false
+  },
+  {
+    "idx": 67,
+    "gold": "нет",
+    "pred": "no",
+    "correct": false
+  },
+  {
+    "idx": 68,
+    "gold": "нет",
+    "pred": "no",
+    "correct": false
+  },
+  {
+    "idx": 69,
+    "gold": "слева",
+    "pred": "лево",
+    "correct": false
+  },
+  {
+    "idx": 70,
+    "gold": "грузовик",
+    "pred": "truck",
+    "correct": false
+  },
+  {
+    "idx": 71,
+    "gold": "нет",
+    "pred": "белый",
+    "correct": false
+  },
+  {
+    "idx": 72,
+    "gold": "ткани",
+    "pred": "ткань.",
+    "correct": false
+  },
+  {
+    "idx": 73,
+    "gold": "на улице",
+    "pred": "улица",
+    "correct": false
+  },
+  {
+    "idx": 74,
+    "gold": "автомобиль",
+    "pred": "van",
+    "correct": false
+  },
+  {
+    "idx": 75,
+    "gold": "рубашка",
+    "pred": "рубашка",
+    "correct": true
+  },
+  {
+    "idx": 76,
+    "gold": "шлем",
+    "pred": "шляпа",
+    "correct": false
+  },
+  {
+    "idx": 77,
+    "gold": "кустарник",
+    "pred": "зебры",
+    "correct": false
+  },
+  {
+    "idx": 78,
+    "gold": "пепперони",
+    "pred": "пепперони",
+    "correct": true
+  },
+  {
+    "idx": 79,
+    "gold": "скейтбордист",
+    "pred": "скейтбордист",
+    "correct": true
+  },
+  {
+    "idx": 80,
+    "gold": "жилой дом",
+    "pred": "автобус",
+    "correct": false
+  },
+  {
+    "idx": 81,
+    "gold": "лампа",
+    "pred": "laptop",
+    "correct": false
+  },
+  {
+    "idx": 82,
+    "gold": "справа",
+    "pred": "справа",
+    "correct": true
+  },
+  {
+    "idx": 83,
+    "gold": "мальчик",
+    "pred": "бейсболист",
+    "correct": false
+  },
+  {
+    "idx": 84,
+    "gold": "диван",
+    "pred": "Ковер",
+    "correct": false
+  },
+  {
+    "idx": 85,
+    "gold": "нет",
+    "pred": "no",
+    "correct": false
+  },
+  {
+    "idx": 86,
+    "gold": "пудра",
+    "pred": "сумочка",
+    "correct": false
+  },
+  {
+    "idx": 87,
+    "gold": "внизу",
+    "pred": "bottom",
+    "correct": false
+  },
+  {
+    "idx": 88,
+    "gold": "да",
+    "pred": "Скейтборд",
+    "correct": false
+  },
+  {
+    "idx": 89,
+    "gold": "фургон",
+    "pred": "автомобили",
+    "correct": false
+  },
+  {
+    "idx": 90,
+    "gold": "нет",
+    "pred": "no",
+    "correct": false
+  },
+  {
+    "idx": 91,
+    "gold": "справа",
+    "pred": "right",
+    "correct": false
+  },
+  {
+    "idx": 92,
+    "gold": "коза",
+    "pred": "овцы",
+    "correct": false
+  },
+  {
+    "idx": 93,
+    "gold": "светло-синий",
+    "pred": "синий",
+    "correct": false
+  },
+  {
+    "idx": 94,
+    "gold": "скалами",
+    "pred": "слон",
+    "correct": false
+  },
+  {
+    "idx": 95,
+    "gold": "скейтбордист",
+    "pred": "spectators",
+    "correct": false
+  },
+  {
+    "idx": 96,
+    "gold": "рубашка",
+    "pred": "черная рубашка",
+    "correct": false
+  },
+  {
+    "idx": 97,
+    "gold": "на кабелях",
+    "pred": "на проводе.",
+    "correct": false
+  },
+  {
+    "idx": 98,
+    "gold": "лужайка",
+    "pred": "fence",
+    "correct": false
+  },
+  {
+    "idx": 99,
+    "gold": "нет",
+    "pred": "белый",
+    "correct": false
+  },
+  {
+    "idx": 100,
+    "gold": "нет",
+    "pred": "no",
+    "correct": false
+  },
+  {
+    "idx": 101,
+    "gold": "грузовик",
+    "pred": "Грузовик.",
+    "correct": true
+  },
+  {
+    "idx": 102,
+    "gold": "мальчик",
+    "pred": "ребенок",
+    "correct": false
+  },
+  {
+    "idx": 103,
+    "gold": "да",
+    "pred": "разноцветный",
+    "correct": false
+  },
+  {
+    "idx": 104,
+    "gold": "черно-белая",
+    "pred": "черно-белая",
+    "correct": true
+  },
+  {
+    "idx": 105,
+    "gold": "да",
+    "pred": "no",
+    "correct": false
+  },
+  {
+    "idx": 106,
+    "gold": "холм",
+    "pred": "Знак остановки.",
+    "correct": false
+  },
+  {
+    "idx": 107,
+    "gold": "стул",
+    "pred": "couch",
+    "correct": false
+  },
+  {
+    "idx": 108,
+    "gold": "нет",
+    "pred": "no",
+    "correct": false
+  },
+  {
+    "idx": 109,
+    "gold": "мальчик",
+    "pred": "Мальчик в бейсбольной форме.",
+    "correct": false
+  },
+  {
+    "idx": 110,
+    "gold": "на насыпи",
+    "pred": "на бейсбольном поле",
+    "correct": false
+  },
+  {
+    "idx": 111,
+    "gold": "маленький",
+    "pred": "5",
+    "correct": false
+  },
+  {
+    "idx": 112,
+    "gold": "нет",
+    "pred": "no",
+    "correct": false
+  },
+  {
+    "idx": 113,
+    "gold": "короткие",
+    "pred": "knee length",
+    "correct": false
+  },
+  {
+    "idx": 114,
+    "gold": "да",
+    "pred": "слон темно-коричневый",
+    "correct": false
+  },
+  {
+    "idx": 115,
+    "gold": "нет",
+    "pred": "no",
+    "correct": false
+  },
+  {
+    "idx": 116,
+    "gold": "нет",
+    "pred": "no",
+    "correct": false
+  },
+  {
+    "idx": 117,
+    "gold": "забор",
+    "pred": "в воде",
+    "correct": false
+  },
+  {
+    "idx": 118,
+    "gold": "скейтбордист",
+    "pred": "скейтбордист",
+    "correct": true
+  },
+  {
+    "idx": 119,
+    "gold": "нет",
+    "pred": "no",
+    "correct": false
+  },
+  {
+    "idx": 120,
+    "gold": "нет",
+    "pred": "no",
+    "correct": false
+  },
+  {
+    "idx": 121,
+    "gold": "длинные",
+    "pred": "100 см",
+    "correct": false
+  },
+  {
+    "idx": 122,
+    "gold": "цвет",
+    "pred": "красный свет",
+    "correct": false
+  },
+  {
+    "idx": 123,
+    "gold": "на унитазе",
+    "pred": "Ванная комната",
+    "correct": false
+  },
+  {
+    "idx": 124,
+    "gold": "вверху",
+    "pred": "top",
+    "correct": false
+  },
+  {
+    "idx": 125,
+    "gold": "нет",
+    "pred": "нож",
+    "correct": false
+  },
+  {
+    "idx": 126,
+    "gold": "да",
+    "pred": "yes",
+    "correct": false
+  },
+  {
+    "idx": 127,
+    "gold": "жираф",
+    "pred": "жираф",
+    "correct": true
+  },
+  {
+    "idx": 128,
+    "gold": "корабль",
+    "pred": "Лодка.",
+    "correct": false
+  },
+  {
+    "idx": 129,
+    "gold": "металл",
+    "pred": "железобетон",
+    "correct": false
+  },
+  {
+    "idx": 130,
+    "gold": "нет",
+    "pred": "белый",
+    "correct": false
+  },
+  {
+    "idx": 131,
+    "gold": "унитаз",
+    "pred": "радиатор",
+    "correct": false
+  },
+  {
+    "idx": 132,
+    "gold": "слева",
+    "pred": "слева",
+    "correct": true
+  },
+  {
+    "idx": 133,
+    "gold": "да",
+    "pred": "yes",
+    "correct": false
+  },
+  {
+    "idx": 134,
+    "gold": "раковина",
+    "pred": "раковина",
+    "correct": true
+  },
+  {
+    "idx": 135,
+    "gold": "океан",
+    "pred": "helicopter",
+    "correct": false
+  },
+  {
+    "idx": 136,
+    "gold": "мужчина",
+    "pred": "tennis player",
+    "correct": false
+  },
+  {
+    "idx": 137,
+    "gold": "скейтбордист",
+    "pred": "skateboarder",
+    "correct": false
+  },
+  {
+    "idx": 138,
+    "gold": "автомобили",
+    "pred": "автомобили",
+    "correct": true
+  },
+  {
+    "idx": 139,
+    "gold": "слева",
+    "pred": "левый",
+    "correct": false
+  },
+  {
+    "idx": 140,
+    "gold": "знак остановки",
+    "pred": "Знак остановки.",
+    "correct": true
+  },
+  {
+    "idx": 141,
+    "gold": "стекле",
+    "pred": "вазе",
+    "correct": false
+  },
+  {
+    "idx": 142,
+    "gold": "высокие",
+    "pred": "knee high",
+    "correct": false
+  },
+  {
+    "idx": 143,
+    "gold": "слева",
+    "pred": "слева",
+    "correct": true
+  },
+  {
+    "idx": 144,
+    "gold": "нет",
+    "pred": "no",
+    "correct": false
+  },
+  {
+    "idx": 145,
+    "gold": "микроволновка",
+    "pred": "microwave",
+    "correct": false
+  },
+  {
+    "idx": 146,
+    "gold": "да",
+    "pred": "no",
+    "correct": false
+  },
+  {
+    "idx": 147,
+    "gold": "куст",
+    "pred": "слон",
+    "correct": false
+  },
+  {
+    "idx": 148,
+    "gold": "лыжи",
+    "pred": "snowboard",
+    "correct": false
+  },
+  {
+    "idx": 149,
+    "gold": "фургон",
+    "pred": "van",
+    "correct": false
+  },
+  {
+    "idx": 150,
+    "gold": "да",
+    "pred": "no",
+    "correct": false
+  },
+  {
+    "idx": 151,
+    "gold": "стол",
+    "pred": "Стол.",
+    "correct": true
+  },
+  {
+    "idx": 152,
+    "gold": "лужайка",
+    "pred": "дом",
+    "correct": false
+  },
+  {
+    "idx": 153,
+    "gold": "да",
+    "pred": "no",
+    "correct": false
+  },
+  {
+    "idx": 154,
+    "gold": "бейсболист",
+    "pred": "catcher",
+    "correct": false
+  },
+  {
+    "idx": 155,
+    "gold": "да",
+    "pred": "yes",
+    "correct": false
+  },
+  {
+    "idx": 156,
+    "gold": "произведение искусства",
+    "pred": "Знак остановки, который находится рядом с забором.",
+    "correct": false
+  },
+  {
+    "idx": 157,
+    "gold": "слева",
+    "pred": "левый",
+    "correct": false
+  },
+  {
+    "idx": 158,
+    "gold": "бургер",
+    "pred": "pork",
+    "correct": false
+  },
+  {
+    "idx": 159,
+    "gold": "автобус",
+    "pred": "автобус",
+    "correct": true
+  },
+  {
+    "idx": 160,
+    "gold": "коробка для пиццы",
+    "pred": "коробка",
+    "correct": false
+  },
+  {
+    "idx": 161,
+    "gold": "нет",
+    "pred": "кольцо выглядит черным и круглым.",
+    "correct": false
+  },
+  {
+    "idx": 162,
+    "gold": "да",
+    "pred": "no",
+    "correct": false
+  },
+  {
+    "idx": 163,
+    "gold": "да",
+    "pred": "yes",
+    "correct": false
+  },
+  {
+    "idx": 164,
+    "gold": "на домашней плите",
+    "pred": "на домашней тарелке",
+    "correct": false
+  },
+  {
+    "idx": 165,
+    "gold": "стул",
+    "pred": "стул",
+    "correct": true
+  },
+  {
+    "idx": 166,
+    "gold": "да",
+    "pred": "no",
+    "correct": false
+  },
+  {
+    "idx": 167,
+    "gold": "на полке",
+    "pred": "на полке",
+    "correct": true
+  },
+  {
+    "idx": 168,
+    "gold": "серебристый",
+    "pred": "серебристый.",
+    "correct": true
+  },
+  {
+    "idx": 169,
+    "gold": "нет",
+    "pred": "no",
+    "correct": false
+  },
+  {
+    "idx": 170,
+    "gold": "ковёр",
+    "pred": "стулья",
+    "correct": false
+  },
+  {
+    "idx": 171,
+    "gold": "кот",
+    "pred": "кошка",
+    "correct": false
+  },
+  {
+    "idx": 172,
+    "gold": "да",
+    "pred": "капуста слева от другой капусты, так и овощ справа от",
+    "correct": false
+  },
+  {
+    "idx": 173,
+    "gold": "посудомоечная машина",
+    "pred": "посуда",
+    "correct": false
+  },
+  {
+    "idx": 174,
+    "gold": "короткая",
+    "pred": "12 футов",
+    "correct": false
+  },
+  {
+    "idx": 175,
+    "gold": "да",
+    "pred": "no",
+    "correct": false
+  },
+  {
+    "idx": 176,
+    "gold": "да",
+    "pred": "no",
+    "correct": false
+  },
+  {
+    "idx": 177,
+    "gold": "да",
+    "pred": "colgate",
+    "correct": false
+  },
+  {
+    "idx": 178,
+    "gold": "шкафы",
+    "pred": "entertainment center",
+    "correct": false
+  },
+  {
+    "idx": 179,
+    "gold": "да",
+    "pred": "yes",
+    "correct": false
+  },
+  {
+    "idx": 180,
+    "gold": "гора",
+    "pred": "лодки",
+    "correct": false
+  },
+  {
+    "idx": 181,
+    "gold": "мужчина",
+    "pred": "человек",
+    "correct": false
+  },
+  {
+    "idx": 182,
+    "gold": "да",
+    "pred": "теннисистка",
+    "correct": false
+  },
+  {
+    "idx": 183,
+    "gold": "диване",
+    "pred": "на диване",
+    "correct": false
+  },
+  {
+    "idx": 184,
+    "gold": "карта",
+    "pred": "кровать",
+    "correct": false
+  },
+  {
+    "idx": 185,
+    "gold": "квадратный",
+    "pred": "квадратный",
+    "correct": true
+  },
+  {
+    "idx": 186,
+    "gold": "маленькие",
+    "pred": "маленький",
+    "correct": false
+  },
+  {
+    "idx": 187,
+    "gold": "собака",
+    "pred": "собака",
+    "correct": true
+  },
+  {
+    "idx": 188,
+    "gold": "приседает",
+    "pred": "покупает бананы",
+    "correct": false
+  },
+  {
+    "idx": 189,
+    "gold": "котенок",
+    "pred": "kitten",
+    "correct": false
+  },
+  {
+    "idx": 190,
+    "gold": "из пластика",
+    "pred": "plastic",
+    "correct": false
+  },
+  {
+    "idx": 191,
+    "gold": "сноубордист",
+    "pred": "snowboarder",
+    "correct": false
+  },
+  {
+    "idx": 192,
+    "gold": "коричневый",
+    "pred": "бордо",
+    "correct": false
+  },
+  {
+    "idx": 193,
+    "gold": "стул",
+    "pred": "стул",
+    "correct": true
+  },
+  {
+    "idx": 194,
+    "gold": "в ресторане",
+    "pred": "ниоткуда",
+    "correct": false
+  },
+  {
+    "idx": 195,
+    "gold": "да",
+    "pred": "no",
+    "correct": false
+  },
+  {
+    "idx": 196,
+    "gold": "из бетона",
+    "pred": "сталь",
+    "correct": false
+  },
+  {
+    "idx": 197,
+    "gold": "да",
+    "pred": "коричневая",
+    "correct": false
+  },
+  {
+    "idx": 198,
+    "gold": "нет",
+    "pred": "no",
+    "correct": false
+  },
+  {
+    "idx": 199,
+    "gold": "сноубордист",
+    "pred": "snowboarder",
+    "correct": false
+  }
+]
